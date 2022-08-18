@@ -5,7 +5,7 @@
         <div class="col-sm-3 footer-colum1" data-v-a380a03e="">
           <h3 data-v-a380a03e="">CÔNG TY CỔ PHẦN CANIFA</h3>
           <p data-v-a380a03e="">
-            Số ĐKKD: 0107574310, ngày cấp: 23/09/2016, nơi cấp: Sở Kế hoạch và
+            Số ĐKKD: 0107574310, ngày cấp: 23/09/2020, nơi cấp: Sở Kế hoạch và
             đầu tư Hà Nội
           </p>
           <p data-v-a380a03e="">
