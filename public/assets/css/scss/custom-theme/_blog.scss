@@ -1,0 +1,58 @@
+
+.home-post-item {
+	padding: 0 8px;
+	width: 100%/3;
+
+	&-title {
+		display: block;
+	    color: #333F48;
+	    margin: 0;
+	    font-weight: bold;
+		font-size: 18px;
+		line-height: 22px;
+		height: 65px;
+
+	    a {
+	    	color: #333F48;
+	    	line-clamp: 2;
+		    -webkit-line-clamp: 2;
+		    -webkit-box-orient: vertical;
+		    overflow: hidden;
+		    text-overflow: ellipsis;
+		    display: -webkit-box;
+	    }
+	}
+
+	&-photo {
+
+		img {
+			display: block;
+			width: 100%;
+		}
+	}
+
+	&-cat {
+		display: block;
+		color: #63B1BC;
+		margin-bottom: 21px;
+	}
+
+	&-details {
+		padding-top: 30px;
+		min-height: 228px;
+	}
+
+	&-date {
+		color: #C8C7CC;
+		font-weight: 500;
+		font-size: 14px;
+		line-height: 21px;
+	}
+}
+
+.home-posts {
+	margin-left: -8px;
+	margin-right: -8px;
+
+	
+}

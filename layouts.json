@@ -1,0 +1,3574 @@
+{
+    "code": 200,
+    "result": {
+        "2": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1656610089.jpg",
+                        "link": "sp-moi",
+                        "label": "Khu vườn mùa hạ"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "flashSale",
+                "title": "Flash deal mỗi ngày!",
+                "showHeader": true,
+                "category": 3880
+            },
+            {
+                "layout": "bannerImage",
+                "title": "Ưu đãi riêng bạn",
+                "showHeader": true,
+                "category": 2,
+                "list_type": 8,
+                "height": 160,
+                "link": "bo-mac-nha",
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1656610358.png",
+                        "link": "bo-mac-nha"
+                    },
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet_second1656638966.jpg",
+                        "link": "outlet.html"
+                    }
+                ]
+            },
+            {
+                "layout": "bannerImage",
+                "title": "Sản phẩm giá tốt",
+                "showHeader": true,
+                "category": 2,
+                "list_type": 8,
+                "height": 160,
+                "link": "san-pham-gia-tot.html",
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1646719696.jpg",
+                        "link": "san-pham-gia-tot.html"
+                    }
+                ]
+            },
+            {
+                "title": "Style at home",
+                "category": 3938,
+                "list_type": 6,
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1650513698.png",
+                        "link": "bo-suu-tap/do-mac-nha.html"
+                    },
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet_second1650513698.png",
+                        "link": "bo-suu-tap/do-mac-nha.html"
+                    },
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet_third1650513698.png",
+                        "link": "bo-suu-tap/do-mac-nha.html"
+                    }
+                ],
+                "link": "bo-suu-tap/do-mac-nha.html",
+                "layout": "threeColumnBanners"
+            },
+            {
+                "layout": "bannerImage",
+                "title": "Áo chống nắng",
+                "showHeader": true,
+                "category": 2567,
+                "list_type": 8,
+                "height": 160,
+                "link": "i/ao-chong-nang.html",
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1656647556.jpg",
+                        "link": "i/ao-chong-nang.html"
+                    }
+                ]
+            },
+            {
+                "title": "Áo phông",
+                "category": 4214,
+                "list_type": 6,
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1649392540.png",
+                        "link": "ao-thun.html"
+                    },
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet_second1649392540.png",
+                        "link": "ao-thun.html"
+                    },
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet_third1649392540.png",
+                        "link": "ao-thun.html"
+                    }
+                ],
+                "link": "ao-thun.html",
+                "layout": "threeColumnBanners"
+            },
+            {
+                "layout": "bannerImage",
+                "title": "Tháng năm rực rỡ",
+                "showHeader": true,
+                "category": 2,
+                "list_type": 8,
+                "height": 160,
+                "link": "sp-moi",
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1655194360.jpg",
+                        "link": "sp-moi"
+                    }
+                ]
+            },
+            {
+                "title": "BST gia đình",
+                "category": 2596,
+                "list_type": 6,
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1651737068.png",
+                        "link": "bo-suu-tap-gia-dinh"
+                    },
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet_second1651737068.png",
+                        "link": "bo-suu-tap-gia-dinh"
+                    },
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet_third1651737068.png",
+                        "link": "bo-suu-tap-gia-dinh"
+                    }
+                ],
+                "link": "bo-suu-tap-gia-dinh",
+                "layout": "threeColumnBanners"
+            },
+            {
+                "layout": "bannerImage",
+                "title": "Quần jeans",
+                "showHeader": true,
+                "category": 2,
+                "list_type": 8,
+                "height": 160,
+                "link": "quan-jeans.html",
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1650248471.jpg",
+                        "link": "quan-jeans.html"
+                    }
+                ]
+            },
+            {
+                "layout": "newProduct",
+                "title": "Hàng mới",
+                "category": 2
+            }
+        ],
+        "21": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1647593244.png",
+                        "link": "nam/san-pham-moi.html",
+                        "label": "Banner nam"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "circleCategory",
+                "data": [
+                    {
+                        "category": 104,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629469978.png",
+                        "label": "Áo phông"
+                    },
+                    {
+                        "category": 96,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629470033.png",
+                        "label": "Áo polo"
+                    },
+                    {
+                        "category": 98,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629470108.png",
+                        "label": "Áo sơ mi"
+                    },
+                    {
+                        "category": 581,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629472008.png",
+                        "label": "Quần shorts"
+                    },
+                    {
+                        "category": 109,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629472039.png",
+                        "label": "Quần jeans"
+                    },
+                    {
+                        "category": 2207,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1639497082.jpg",
+                        "label": "Áo mặc trong"
+                    },
+                    {
+                        "category": 1255,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629470458.png",
+                        "label": "Áo mặc nhà nam"
+                    },
+                    {
+                        "category": 1268,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629471564.png",
+                        "label": "Quần mặc nhà nam"
+                    },
+                    {
+                        "category": 2183,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629471645.png",
+                        "label": "Bộ mặc nhà"
+                    },
+                    {
+                        "category": 956,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629471968.png",
+                        "label": "Quần vải"
+                    },
+                    {
+                        "category": 580,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629472112.png",
+                        "label": "Quần khaki"
+                    },
+                    {
+                        "category": 1042,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629472477.png",
+                        "label": "Chống nắng"
+                    },
+                    {
+                        "category": 742,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629472400.png",
+                        "label": "Phụ kiện"
+                    },
+                    {
+                        "category": 1178,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1639533114.jpg",
+                        "label": "Quần lót nam"
+                    }
+                ]
+            },
+            {
+                "layout": "bannerImage",
+                "title": "Áo phông",
+                "showHeader": false,
+                "category": 2,
+                "list_type": 10,
+                "height": 160,
+                "link": "nam/ao-phong-khong-co.html",
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1647056520.png",
+                        "link": "nam/ao-phong-khong-co.html"
+                    }
+                ]
+            },
+            {
+                "title": "Áo chống nắng",
+                "category": 1042,
+                "list_type": 6,
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1647056705.png",
+                        "link": "nam/san-pham-dac-biet/san-pham-antiuv-nam"
+                    }
+                ],
+                "link": "nam/san-pham-dac-biet/san-pham-antiuv-nam",
+                "layout": "threeColumnBanners"
+            },
+            {
+                "layout": "bannerImage",
+                "title": "Áo sơ mi",
+                "showHeader": false,
+                "category": 2,
+                "list_type": 10,
+                "height": 160,
+                "link": "nam/danh-muc-san-pham.html/ao-so-mi",
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1650004378.png",
+                        "link": "nam/danh-muc-san-pham.html/ao-so-mi"
+                    }
+                ]
+            },
+            {
+                "title": "Thời trang mặc nhà",
+                "category": 105,
+                "list_type": 6,
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1650513373.png",
+                        "link": "nam/do-mac-nha.html"
+                    },
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet_second1650513373.png",
+                        "link": "nam/do-mac-nha.html"
+                    }
+                ],
+                "link": "nam/do-mac-nha.html",
+                "layout": "threeColumnBanners"
+            },
+            {
+                "layout": "bannerImage",
+                "title": "Quần jeans",
+                "showHeader": false,
+                "category": 2,
+                "list_type": 10,
+                "height": 160,
+                "link": "nam/quan-jeans.html",
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1639536891.png",
+                        "link": "nam/quan-jeans.html"
+                    }
+                ]
+            },
+            {
+                "title": "Home textitle",
+                "category": 3973,
+                "list_type": 6,
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1639496498.jpg",
+                        "link": "nam/thoi-trang-thiet-yeu/do-dung-ca-nhan.html"
+                    }
+                ],
+                "link": "nam/thoi-trang-thiet-yeu/do-dung-ca-nhan.html",
+                "layout": "threeColumnBanners"
+            }
+        ],
+        "163": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1647593218.png",
+                        "link": "nu/san-pham-moi.html",
+                        "label": "Banner nữ"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "circleCategory",
+                "data": [
+                    {
+                        "category": 196,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1639497541.png",
+                        "label": "Áo phông"
+                    },
+                    {
+                        "category": 197,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1639497503.png",
+                        "label": "Áo polo"
+                    },
+                    {
+                        "category": 974,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1639531301.png",
+                        "label": "Bộ mặc nhà"
+                    },
+                    {
+                        "category": 231,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1639530678.png",
+                        "label": "Váy liền thân (Đầm)"
+                    },
+                    {
+                        "category": 785,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1639530445.png",
+                        "label": "Quần shorts"
+                    },
+                    {
+                        "category": 796,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1639530755.png",
+                        "label": "Áo mặc nhà"
+                    },
+                    {
+                        "category": 803,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629478506.png",
+                        "label": "Quần mặc nhà"
+                    },
+                    {
+                        "category": 388,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1639497604.jpg",
+                        "label": "Áo sơ mi"
+                    },
+                    {
+                        "category": 1086,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1639530534.png",
+                        "label": "Quần dài"
+                    },
+                    {
+                        "category": 781,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1639530476.png",
+                        "label": "Quần jeans"
+                    },
+                    {
+                        "category": 592,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1639531166.png",
+                        "label": "Chân váy"
+                    },
+                    {
+                        "category": 1047,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629479055.png",
+                        "label": "Chống nắng"
+                    },
+                    {
+                        "category": 2235,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629479175.png",
+                        "label": "Đồ mặc bên trong"
+                    },
+                    {
+                        "category": 1173,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1639497013.jpg",
+                        "label": "Quần lót"
+                    }
+                ]
+            },
+            {
+                "title": "Áo phông",
+                "category": 196,
+                "list_type": 6,
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1650004546.png",
+                        "link": "nu/danh-muc-san-pham/ao-phong-khong-co.html"
+                    },
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet_second1650004546.png",
+                        "link": "nu/danh-muc-san-pham/ao-phong-khong-co.html"
+                    },
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet_third1650004546.png",
+                        "link": "nu/danh-muc-san-pham/ao-phong-khong-co.html"
+                    }
+                ],
+                "link": "nu/danh-muc-san-pham/ao-phong-khong-co.html",
+                "layout": "threeColumnBanners"
+            },
+            {
+                "layout": "bannerImage",
+                "title": "Áo sơ mi nữ",
+                "showHeader": false,
+                "category": 2,
+                "list_type": 10,
+                "height": 160,
+                "link": "nu/danh-muc-san-pham/ao-so-mi.html",
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1650004632.png",
+                        "link": "nu/danh-muc-san-pham/ao-so-mi.html"
+                    }
+                ]
+            },
+            {
+                "title": "Style at home",
+                "category": 3940,
+                "list_type": 6,
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1650513547.png",
+                        "link": "nu/danh-muc-san-pham/do-mac-nha/bo-mac-nha.html"
+                    },
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet_second1650513547.png",
+                        "link": "nu/danh-muc-san-pham/do-mac-nha/bo-mac-nha.html"
+                    }
+                ],
+                "link": "nu/danh-muc-san-pham/do-mac-nha/bo-mac-nha.html",
+                "layout": "threeColumnBanners"
+            },
+            {
+                "layout": "bannerImage",
+                "title": "Váy liền",
+                "showHeader": false,
+                "category": 2,
+                "list_type": 10,
+                "height": 160,
+                "link": "nu/vay-lien.html",
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1650004441.png",
+                        "link": "nu/vay-lien.html"
+                    }
+                ]
+            },
+            {
+                "title": "Home textitle",
+                "category": 3960,
+                "list_type": 6,
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1639496475.jpg",
+                        "link": "nu/thoi-trang-thiet-yeu/do-dung-ca-nhan.html"
+                    }
+                ],
+                "link": "nu/thoi-trang-thiet-yeu/do-dung-ca-nhan.html",
+                "layout": "threeColumnBanners"
+            }
+        ],
+        "237": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1647593286.png",
+                        "link": "girl/san-pham-moi-be-gai.html",
+                        "label": "Banner Bé gái"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "circleCategory",
+                "data": [
+                    {
+                        "category": 241,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629484851.png",
+                        "label": "Áo phông"
+                    },
+                    {
+                        "category": 864,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1639497640.png",
+                        "label": "Áo polo"
+                    },
+                    {
+                        "category": 246,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1647482411.png",
+                        "label": "Bộ mặc nhà"
+                    },
+                    {
+                        "category": 243,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1639538355.png",
+                        "label": "Váy liền"
+                    },
+                    {
+                        "category": 895,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629486181.png",
+                        "label": "Quần jeans"
+                    },
+                    {
+                        "category": 385,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1639534134.png",
+                        "label": "Áo sơ mi"
+                    },
+                    {
+                        "category": 898,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1639534238.png",
+                        "label": "Quần shorts"
+                    },
+                    {
+                        "category": 2287,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1639534182.png",
+                        "label": "Quần dài"
+                    },
+                    {
+                        "category": 903,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1639534329.png",
+                        "label": "Chân váy"
+                    },
+                    {
+                        "category": 2295,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1639538406.png",
+                        "label": "Áo mặc nhà"
+                    },
+                    {
+                        "category": 2296,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629507026.png",
+                        "label": "Quần mặc nhà"
+                    },
+                    {
+                        "category": 894,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1639534282.png",
+                        "label": "Quần khaki"
+                    },
+                    {
+                        "category": 1711,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629507536.png",
+                        "label": "Chống nắng"
+                    },
+                    {
+                        "category": 2299,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1639497238.jpg",
+                        "label": "Quần chip"
+                    },
+                    {
+                        "category": 2298,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629512443.png",
+                        "label": "Đồ mặc trong "
+                    }
+                ]
+            },
+            {
+                "layout": "bannerImage",
+                "title": "Style at home",
+                "showHeader": false,
+                "category": 2,
+                "list_type": 10,
+                "height": 160,
+                "link": "girl/danh-muc-san-pham/do-mac-nha-be-gai.html",
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1650528663.png",
+                        "link": "girl/danh-muc-san-pham/do-mac-nha-be-gai.html"
+                    }
+                ]
+            },
+            {
+                "title": "Quần shorts bé gái",
+                "category": 4177,
+                "list_type": 6,
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1653881780.png",
+                        "link": "girl/danh-muc-san-pham/quan-short-be-gai.html"
+                    },
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet_second1653881780.png",
+                        "link": "girl/danh-muc-san-pham/quan-short-be-gai.html"
+                    },
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet_third1653881780.png",
+                        "link": "girl/danh-muc-san-pham/quan-short-be-gai.html"
+                    }
+                ],
+                "link": "girl/danh-muc-san-pham/quan-short-be-gai.html",
+                "layout": "threeColumnBanners"
+            },
+            {
+                "layout": "bannerImage",
+                "title": "Váy liền",
+                "showHeader": false,
+                "category": 2,
+                "list_type": 10,
+                "height": 160,
+                "link": "girl/vay-lien-be-gai.html",
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1647057897.png",
+                        "link": "girl/vay-lien-be-gai.html"
+                    }
+                ]
+            },
+            {
+                "title": "Tất bé gái",
+                "category": 924,
+                "list_type": 6,
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1639534963.png",
+                        "link": "girl/thoi-trang-thiet-yeu/phu-kien-be-gai/tat-be-gai.html"
+                    }
+                ],
+                "link": "girl/thoi-trang-thiet-yeu/phu-kien-be-gai/tat-be-gai.html",
+                "layout": "threeColumnBanners"
+            }
+        ],
+        "238": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1647593313.png",
+                        "link": "boy/san-pham-moi.html",
+                        "label": "Banner Bé trai"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "circleCategory",
+                "data": [
+                    {
+                        "category": 140,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629512670.png",
+                        "label": "Áo phông"
+                    },
+                    {
+                        "category": 820,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629512755.png",
+                        "label": "Áo polo"
+                    },
+                    {
+                        "category": 960,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629515148.png",
+                        "label": "Bộ mặc nhà"
+                    },
+                    {
+                        "category": 845,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629513658.png",
+                        "label": "Quần shorts"
+                    },
+                    {
+                        "category": 315,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629513187.png",
+                        "label": "Áo sơ mi"
+                    },
+                    {
+                        "category": 843,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629513802.png",
+                        "label": "Quần jeans"
+                    },
+                    {
+                        "category": 842,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629513860.png",
+                        "label": "Quần khaki"
+                    },
+                    {
+                        "category": 2253,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629513597.png",
+                        "label": "Quần dài"
+                    },
+                    {
+                        "category": 853,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629515013.png",
+                        "label": "Áo mặc nhà"
+                    },
+                    {
+                        "category": 855,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629515092.png",
+                        "label": "Quần mặc nhà"
+                    },
+                    {
+                        "category": 2261,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629513353.png",
+                        "label": "Áo mặc trong"
+                    },
+                    {
+                        "category": 1708,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629515595.png",
+                        "label": "Chống nắng"
+                    },
+                    {
+                        "category": 223,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629515512.png",
+                        "label": "Phụ kiện"
+                    },
+                    {
+                        "category": 2259,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1629515875.png",
+                        "label": "Đồ mặc bên trong"
+                    },
+                    {
+                        "category": 2260,
+                        "image": "https://media.canifa.com/Simiconnector/simicategory_filename_tablet1639539030.jpg",
+                        "label": "Quần sịp"
+                    }
+                ]
+            },
+            {
+                "layout": "bannerImage",
+                "title": "Áo ba lỗ",
+                "showHeader": false,
+                "category": 2,
+                "list_type": 10,
+                "height": 160,
+                "link": "boy/ao-phong-khong-co/ao-ba-lo",
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1653883667.png",
+                        "link": "boy/ao-phong-khong-co/ao-ba-lo"
+                    }
+                ]
+            },
+            {
+                "title": "Áo sơ mi",
+                "category": 315,
+                "list_type": 6,
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1639537237.png",
+                        "link": "boy/ao-so-mi-be-trai.html"
+                    }
+                ],
+                "link": "boy/ao-so-mi-be-trai.html",
+                "layout": "threeColumnBanners"
+            },
+            {
+                "layout": "bannerImage",
+                "title": "Quần shorts",
+                "showHeader": false,
+                "category": 2,
+                "list_type": 10,
+                "height": 160,
+                "link": "boy/danh-muc-san-pham/quan-short.html",
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1647058051.png",
+                        "link": "boy/danh-muc-san-pham/quan-short.html"
+                    }
+                ]
+            },
+            {
+                "title": "Style at home",
+                "category": 960,
+                "list_type": 6,
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1650513265.png",
+                        "link": "boy/danh-muc-san-pham/do-mac-nha.html"
+                    },
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet_second1650513265.png",
+                        "link": "boy/danh-muc-san-pham/do-mac-nha.html"
+                    }
+                ],
+                "link": "boy/danh-muc-san-pham/do-mac-nha.html",
+                "layout": "threeColumnBanners"
+            },
+            {
+                "layout": "bannerImage",
+                "title": "Áo phông",
+                "showHeader": false,
+                "category": 2,
+                "list_type": 10,
+                "height": 160,
+                "link": "boy/ao-phong-khong-co.html",
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1639548883.png",
+                        "link": "boy/ao-phong-khong-co.html"
+                    }
+                ]
+            },
+            {
+                "title": "Áo khoác gió",
+                "category": 958,
+                "list_type": 6,
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1647058680.png",
+                        "link": "boy/san-pham-dac-biet-be-trai/ao-khoac-gio"
+                    },
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet_second1647058680.png",
+                        "link": "boy/san-pham-dac-biet-be-trai/ao-khoac-gio"
+                    }
+                ],
+                "link": "boy/san-pham-dac-biet-be-trai/ao-khoac-gio",
+                "layout": "threeColumnBanners"
+            }
+        ],
+        "655": [
+            {
+                "layout": "landing_filters",
+                "remaining_seconds": 0,
+                "category_id": 655
+            }
+        ],
+        "984": [
+            {
+                "layout": "circleCategory",
+                "data": [
+                    {
+                        "category": 1069,
+                        "image": "https://media.canifa.com/null",
+                        "label": "Bộ gia đình"
+                    }
+                ]
+            }
+        ],
+        "1256": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1656610122.jpg",
+                        "link": "sp-moi",
+                        "label": "Sản phẩm mới cate"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 1256
+            }
+        ],
+        "2217": [
+            {
+                "title": "Áo nỉ",
+                "category": 4012,
+                "list_type": 6,
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1634284615.png",
+                        "link": "nu/ao-ni.html"
+                    },
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet_second1634284615.jpg",
+                        "link": "nu/ao-ni.html"
+                    }
+                ],
+                "link": "nu/ao-ni.html",
+                "layout": "threeColumnBanners"
+            }
+        ],
+        "2500": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1648794896.png",
+                        "link": "outlet.html",
+                        "label": "Outlet"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "landing_filters",
+                "final_price": [
+                    {
+                        "from": 0,
+                        "to": 99000,
+                        "title": "99k"
+                    },
+                    {
+                        "from": 99001,
+                        "to": 149000,
+                        "title": "149k"
+                    },
+                    {
+                        "from": 149001,
+                        "to": 199000,
+                        "title": "199k"
+                    },
+                    {
+                        "from": 199001,
+                        "to": 249000,
+                        "title": "249k"
+                    },
+                    {
+                        "from": 249001,
+                        "to": 2000000,
+                        "title": "Từ 249k"
+                    }
+                ],
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 2500
+            }
+        ],
+        "2567": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1656522613.jpg",
+                        "link": "nu/san-pham-dac-biet/san-pham-antiuv-nu.html",
+                        "label": "Áo chống nắng"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 2567
+            }
+        ],
+        "2596": [
+            {
+                "layout": "bannerImage",
+                "title": "BST gia đình - cate",
+                "showHeader": false,
+                "category": 2,
+                "list_type": 10,
+                "link": "bo-suu-tap-gia-dinh",
+                "height": 160,
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1651737470.png",
+                        "link": "bo-suu-tap-gia-dinh"
+                    }
+                ]
+            },
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 2596
+            }
+        ],
+        "3183": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1639540272.png",
+                        "link": "https://canifa.com/i/ao-khoac-gio-3-giay-4-can",
+                        "label": "Áo khoác gió 3S4C"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 3183
+            }
+        ],
+        "3357": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1646719734.jpg",
+                        "link": "san-pham-gia-tot.html",
+                        "label": "Sản phẩm giá tốt"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 3357
+            }
+        ],
+        "3536": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1639548596.png",
+                        "link": "ao-khoac.html",
+                        "label": "Áo khoác"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 3536
+            }
+        ],
+        "3565": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1643637229.png",
+                        "link": "giam-gia-cuoi-nam",
+                        "label": "Sale cuối năm Cate 15-31.01"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "landing_filters",
+                "category_ids": [
+                    {
+                        "value": [
+                            4224
+                        ],
+                        "title": "GIẢM 50%"
+                    },
+                    {
+                        "value": [
+                            4223
+                        ],
+                        "title": "GIẢM 30%"
+                    }
+                ],
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 3565
+            }
+        ],
+        "3616": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1646300352.png",
+                        "link": "cho-nguoi-phu-nu-toi-yeu",
+                        "label": "Cho người phụ nữ tôi yêu Cate"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Mẹ"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "category_ids": [
+                    {
+                        "value": [
+                            3617
+                        ],
+                        "title": "Chân váy"
+                    },
+                    {
+                        "value": [
+                            3618
+                        ],
+                        "title": "Áo kiểu"
+                    },
+                    {
+                        "value": [
+                            3619
+                        ],
+                        "title": "Váy liền"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 3616
+            }
+        ],
+        "3646": [
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Mẹ"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 3646
+            }
+        ],
+        "3666": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1651943546.png",
+                        "link": "ngay-cua-me",
+                        "label": "Ngày của mẹ - cate"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Mẹ"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 3666
+            }
+        ],
+        "3800": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1655199167.jpg",
+                        "link": "canifa-shopping-days",
+                        "label": "Canifa shopping day's"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ",
+                        "key": "nu"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam",
+                        "key": "nam"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái",
+                        "key": "be-gai"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai",
+                        "key": "be-trai"
+                    }
+                ],
+                "category_ids": [
+                    {
+                        "value": [
+                            4301
+                        ],
+                        "title": "20%",
+                        "key": "20p"
+                    },
+                    {
+                        "value": [
+                            4302
+                        ],
+                        "title": "30%",
+                        "key": "30p"
+                    },
+                    {
+                        "value": [
+                            4303
+                        ],
+                        "title": "50%",
+                        "key": "50p"
+                    }
+                ],
+                "positions": [
+                    "sizeguide",
+                    "category_ids"
+                ],
+                "remaining_seconds": 0,
+                "category_id": 3800
+            }
+        ],
+        "3938": [
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 3938
+            }
+        ],
+        "4095": [
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4095
+            }
+        ],
+        "4105": [
+            {
+                "layout": "bannerImage",
+                "title": "Váy xinh cho mẹ và bé",
+                "showHeader": false,
+                "category": 2,
+                "list_type": 9,
+                "link": null,
+                "height": 160,
+                "imageBanner": [
+                    {
+                        "url": "https://media.canifa.com/Simiconnector/list_image_tablet1636513475.jpg",
+                        "link": null
+                    }
+                ]
+            }
+        ],
+        "4128": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1639969593.png",
+                        "link": "ao-len",
+                        "label": "Áo len"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4128
+            }
+        ],
+        "4130": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1640848497.png",
+                        "link": "do-ni",
+                        "label": "Đồ nỉ"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4130
+            }
+        ],
+        "4134": [
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4134
+            }
+        ],
+        "4135": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1639492160.jpg",
+                        "link": "bst-dau-an-20-nam",
+                        "label": "BST Dấu ấn 20 năm"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "landing_filters",
+                "remaining_seconds": 0,
+                "category_id": 4135
+            }
+        ],
+        "4136": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1639539874.png",
+                        "link": "new-canifa",
+                        "label": "NEW CANIFA"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "landing_filters",
+                "category_ids": [
+                    {
+                        "value": [
+                            4137
+                        ],
+                        "title": "Family"
+                    },
+                    {
+                        "value": [
+                            4138
+                        ],
+                        "title": "Homewear"
+                    },
+                    {
+                        "value": [
+                            4139
+                        ],
+                        "title": "Thiết yếu"
+                    },
+                    {
+                        "value": [
+                            4140
+                        ],
+                        "title": "Tự tin xuống phố"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4136
+            }
+        ],
+        "4207": [
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4207
+            }
+        ],
+        "4208": [
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4208
+            }
+        ],
+        "4209": [
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540,
+                            193,
+                            8163
+                        ],
+                        "title": "Trẻ em"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4209
+            }
+        ],
+        "4210": [
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4210
+            }
+        ],
+        "4212": [
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Mẹ"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4212
+            }
+        ],
+        "4213": [
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4213
+            }
+        ],
+        "4214": [
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4214
+            }
+        ],
+        "4217": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1640663533.png",
+                        "link": "qua-tang",
+                        "label": "Quà tặng cho người thân yêu"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4217
+            }
+        ],
+        "4218": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1645413910.png",
+                        "link": "sale-corner",
+                        "label": "Sale corner cate"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "landing_filters",
+                "final_price": [
+                    {
+                        "from": 0,
+                        "to": 99000,
+                        "title": "99k"
+                    },
+                    {
+                        "from": 99001,
+                        "to": 149000,
+                        "title": "149k"
+                    },
+                    {
+                        "from": 149001,
+                        "to": 199000,
+                        "title": "199k"
+                    },
+                    {
+                        "from": 199001,
+                        "to": 299000,
+                        "title": "299k"
+                    },
+                    {
+                        "from": 299001,
+                        "to": 2000000,
+                        "title": "Từ 299k"
+                    }
+                ],
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4218
+            }
+        ],
+        "4221": [
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4221
+            }
+        ],
+        "4222": [
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4222
+            }
+        ],
+        "4230": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1642586056.jpg",
+                        "link": "xuan-collection",
+                        "label": "Xuân collection - Cate"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "landing_filters",
+                "remaining_seconds": 0,
+                "category_id": 4230
+            }
+        ],
+        "4231": [
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4231
+            }
+        ],
+        "4232": [
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164,
+                            195
+                        ],
+                        "title": "Unisex người lớn"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540,
+                            193
+                        ],
+                        "title": "Unisex trẻ em"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4232
+            }
+        ],
+        "4237": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1644461126.png",
+                        "link": "mua-yeu",
+                        "label": "Mùa yêu M1T1 banner cate"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4237
+            }
+        ],
+        "4242": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1646283561.png",
+                        "link": "flash-sale-0303",
+                        "label": "Flash sale 3-3 Cate"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4242
+            }
+        ],
+        "4248": [
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4248
+            }
+        ],
+        "4249": [
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4249
+            }
+        ],
+        "4250": [
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4250
+            }
+        ],
+        "4251": [
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164,
+                            195
+                        ],
+                        "title": "Unisex người lớn"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540,
+                            193
+                        ],
+                        "title": "Unisex trẻ em"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4251
+            }
+        ],
+        "4252": [
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4252
+            }
+        ],
+        "4253": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1647508406.png",
+                        "link": "vui-collection",
+                        "label": "Vui collection"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "landing_filters",
+                "category_ids": [
+                    {
+                        "value": [
+                            4253
+                        ],
+                        "title": "Vui Collection"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4253
+            }
+        ],
+        "4254": [
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4254
+            }
+        ],
+        "4255": [
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4255
+            }
+        ],
+        "4257": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1648090108.png",
+                        "link": "khoac-len-thoai-mai",
+                        "label": "Smarter_life 25/3-3/4 Cate"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "landing_filters",
+                "category_ids": [
+                    {
+                        "value": [
+                            4259
+                        ],
+                        "title": "Áo phông"
+                    },
+                    {
+                        "value": [
+                            4260
+                        ],
+                        "title": "Áo polo"
+                    },
+                    {
+                        "value": [
+                            4262
+                        ],
+                        "title": "Áo sơmi"
+                    },
+                    {
+                        "value": [
+                            4263
+                        ],
+                        "title": "Quần"
+                    },
+                    {
+                        "value": [
+                            4261
+                        ],
+                        "title": "Chống nắng"
+                    },
+                    {
+                        "value": [
+                            4267
+                        ],
+                        "title": "Bộ mặc nhà"
+                    },
+                    {
+                        "value": [
+                            4268
+                        ],
+                        "title": "Váy liền"
+                    },
+                    {
+                        "value": [
+                            4258
+                        ],
+                        "title": "Phụ kiện"
+                    }
+                ],
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4257
+            }
+        ],
+        "4264": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1650443961.png",
+                        "link": "combo-chao-he.html",
+                        "label": "Combo chào hè (độc quyền OL) - Cate"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "landing_filters",
+                "category_ids": [
+                    {
+                        "value": [
+                            4265
+                        ],
+                        "title": "Áo phông"
+                    },
+                    {
+                        "value": [
+                            4266
+                        ],
+                        "title": "Quần shorts"
+                    }
+                ],
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4264
+            }
+        ],
+        "4269": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1649152562.png",
+                        "link": "ngay-hoi-mua-sam-online",
+                        "label": "Ngày hội mua sắm 6-10/4 -Cate"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4269
+            }
+        ],
+        "4274": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1654512599.jpg",
+                        "link": "mua-sam-tiet-kiem",
+                        "label": "Mua sắm tiết kiệm T6 cate"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4274
+            }
+        ],
+        "4277": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1654491473.jpg",
+                        "link": "vay-me-va-be",
+                        "label": "Váy cho mẹ & bé"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "landing_filters",
+                "category_ids": [
+                    {
+                        "value": [
+                            4278
+                        ],
+                        "title": "Váy"
+                    },
+                    {
+                        "value": [
+                            4279
+                        ],
+                        "title": "Chân váy"
+                    }
+                ],
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Mẹ"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4277
+            }
+        ],
+        "4287": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1651049003.png",
+                        "link": "ao-phong-chao-he",
+                        "label": "Áo phông chào hè - Cate"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai"
+                    },
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4287
+            }
+        ],
+        "4289": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1652150990.png",
+                        "link": "20k-ao-phong",
+                        "label": "20K áo phông - cate"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam",
+                        "key": "nam"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ",
+                        "key": "nu"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai",
+                        "key": "be-trai"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái",
+                        "key": "be-gai"
+                    }
+                ],
+                "final_price": [
+                    {
+                        "from": 0,
+                        "to": 99000,
+                        "value": "tu 49K",
+                        "title": "Từ 49k",
+                        "key": "tu-49k"
+                    },
+                    {
+                        "from": 99001,
+                        "to": 148000,
+                        "value": "tu 99k",
+                        "title": "Từ 99K",
+                        "key": "tu-99k"
+                    },
+                    {
+                        "from": 149000,
+                        "to": 199000,
+                        "value": "tu 149k",
+                        "title": "Từ 149K",
+                        "key": "tu-149k"
+                    },
+                    {
+                        "from": 199001,
+                        "to": 2990000,
+                        "value": "tu 299k",
+                        "title": "Từ 199K",
+                        "key": "tu-199k"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4289
+            }
+        ],
+        "4299": [
+            {
+                "imageBanner": [
+                    {
+                        "category": 2,
+                        "url": "https://media.canifa.com/Simiconnector/banner_name_tablet1654483271.jpg",
+                        "link": "sieu-sale-6",
+                        "label": "Siêu sale 6.6 - cate"
+                    }
+                ],
+                "layout": "bannerImage",
+                "height": 160
+            },
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ",
+                        "key": "nu"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam",
+                        "key": "nam"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái",
+                        "key": "be-gai"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai",
+                        "key": "be-trai"
+                    }
+                ],
+                "final_price": [
+                    {
+                        "from": 0,
+                        "to": 99000,
+                        "title": "99k",
+                        "key": 99
+                    },
+                    {
+                        "from": 99001,
+                        "to": 199000,
+                        "title": "199k",
+                        "key": 199
+                    },
+                    {
+                        "from": 199001,
+                        "to": 999000,
+                        "title": "299k",
+                        "key": 299
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4299
+            }
+        ],
+        "4306": [
+            {
+                "layout": "landing_filters",
+                "sizeguide": [
+                    {
+                        "value": [],
+                        "title": "Tất cả"
+                    },
+                    {
+                        "value": [
+                            195,
+                            8164
+                        ],
+                        "title": "Nữ",
+                        "key": "nu"
+                    },
+                    {
+                        "value": [
+                            196,
+                            8164
+                        ],
+                        "title": "Nam",
+                        "key": "nam"
+                    },
+                    {
+                        "value": [
+                            193,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé gái",
+                        "key": "be-gai"
+                    },
+                    {
+                        "value": [
+                            194,
+                            8163,
+                            5534,
+                            5540
+                        ],
+                        "title": "Bé trai",
+                        "key": "be-trai"
+                    }
+                ],
+                "remaining_seconds": 0,
+                "category_id": 4306
+            }
+        ]
+    }
+}

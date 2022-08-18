@@ -1,0 +1,17 @@
+{
+    "server": {
+        "host": "localhost",
+        "port": 7001,
+        "protocol": "http",
+        "api": "api",
+        "domain": "http://m2dev.canifa.com:3000",
+        "devServiceWorker": false,
+        "useHtmlMinifier": true,
+        "htmlMinifierOptions": {
+            "minifyJS": true,
+            "minifyCSS": true
+        },
+        "urlSwatch": "https://media.canifa.com/attribute/swatch",
+        "checkstock": "http://118.68.218.45:8080/api/stock/list"
+    }
+}
